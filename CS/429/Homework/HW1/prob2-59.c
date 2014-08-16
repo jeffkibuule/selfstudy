@@ -1,4 +1,6 @@
-/* Problem 2.59 */
+/* Problem 2.59 
+   (c) 2014 Joefrey Kibuule
+*/
 #include <stdio.h>
 
 typedef unsigned char *byte_pointer;
